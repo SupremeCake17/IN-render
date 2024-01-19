@@ -1,6 +1,6 @@
 import express from 'express'
 import http from 'node:http'
-import { createBareServer } from 'education-server'
+import { createBareServer } from 'bare-server-evil'
 import path from 'node:path'
 import cors from 'cors'
 
